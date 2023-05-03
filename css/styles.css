@@ -186,7 +186,7 @@ button {
   align-items: center;
   text-align: center;
   letter-spacing: 0.04em;
-  color: var(--button-color);
+  color: var(--button-logo-color);
   background-color: var(--background-color-button);
 }
 
