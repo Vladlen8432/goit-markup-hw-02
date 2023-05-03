@@ -41,18 +41,19 @@ button {
 }
 
 .logo-studio {
-  color: var(--color-fonts);
+  color: var(--color-link-background);
 }
 
 .menu-link {
   font-weight: 500;
   font-size: 16px;
-  line-height: 1.13;
+  line-height: 1.5;
   letter-spacing: 0.02em;
-  color: var(--color-link);
+  color: var(--color-link-background);
 }
 
-.menu-link:hover .menu-link:focus {
+.menu-link:hover,
+.menu-link:focus {
   color: var(--color-hover);
 }
 
@@ -105,7 +106,7 @@ button {
 .list-sec-two {
   font-weight: 500;
   font-size: 20px;
-  line-height: 1.5;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   color: var(--color-link-background);
 }
@@ -148,7 +149,7 @@ button {
 .sec-four-team {
   font-weight: 500;
   font-size: 20px;
-  line-height: 1.5;
+  line-height: 1.2;
   letter-spacing: 0.02em;
   color: var(--color-link-background);
 }
